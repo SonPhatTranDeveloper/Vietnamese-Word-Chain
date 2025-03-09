@@ -30,6 +30,8 @@ Key features:
 - **Responsive Design**: Adapts to different screen sizes
 - **Vietnamese Language Support**: Fully supports Vietnamese text
 
+**Note**: Mobile-friendly UI will be added later (probably?)
+
 ## Customization
 
 To customize the word list:
